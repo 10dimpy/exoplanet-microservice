@@ -20,4 +20,4 @@ This is a simple Golang microservice to manage exoplanets.
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/yourusername/exoplanet-microservice.git
+   git clone https://github.com/10dimpy/exoplanet-microservice.git
